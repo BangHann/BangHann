@@ -51,7 +51,7 @@ in modern JavaScript development — building things, breaking things, and learn
 
 ### 📌 Featured Projects
 
-> _Sedang disiapkan — tinggal ganti link & deskripsi di bawah ini sesuai project asli kamu._
+> __
 
 <table>
   <tr>

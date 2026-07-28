@@ -1,104 +1,90 @@
 <div align="center">
 
-# Hi, I'm Farhan Hibatullah 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Farhan%20Hibatullah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=94a3b8" width="100%"/>
 
-### Junior Full-Stack Developer | JavaScript · React · Node.js
+<a href="https://twitter.com/frhn_hbtlh"><img src="https://img.shields.io/badge/-@frhn__hbtlh-000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://instagram.com/parann.h"><img src="https://img.shields.io/badge/-@parann.h-000?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="mailto:hibatullahfarhan4@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=banghann&style=flat-square&color=1e293b" />
 
-I'm a college student at **Universitas Muhammadiyah Jakarta**, currently sharpening my skills
-in modern JavaScript development — building things, breaking things, and learning fast.
+<br/><br/>
 
-[![Twitter](https://img.shields.io/badge/-@frhn__hbtlh-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/frhn_hbtlh)
-[![Instagram](https://img.shields.io/badge/-@parann.h-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/parann.h)
-[![Gmail](https://img.shields.io/badge/-hibatullahfarhan4@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hibatullahfarhan4@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=banghann&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/banghann)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=64748B&center=true&vCenter=true&width=500&lines=Building+things+with+React+%26+Node.js;College+student+%40+UMJ;Always+learning%2C+always+shipping" />
 
 </div>
 
----
+<br/>
 
-### 🚀 About Me
+## About
 
-- 🔭 Currently building projects with **React, Node.js, and Express**
-- 🌱 Learning: **TypeScript** and **backend architecture patterns**
-- 💡 Interested in: clean UI/UX and scalable web apps
-- 📫 Reach me at **hibatullahfarhan4@gmail.com**
-- ⚡ Fun fact: I debug better after 12 AM ☕
+I'm a college student at **Universitas Muhammadiyah Jakarta**, focused on building
+web apps with the JavaScript ecosystem — from pixel-pushing on the frontend to
+wiring up APIs on the backend.
 
----
+- 🔭 Currently building projects with **React, Node.js & Express**
+- 🌱 Learning **TypeScript** and backend architecture patterns
+- 📫 **hibatullahfarhan4@gmail.com**
 
-### 🛠️ Tech Stack
+<br/>
 
-**Frontend**
+## Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="center">
 
-**Backend & Database**
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,bootstrap,mysql,git,figma,linux&theme=dark" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
 
-**Tools**
+<br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📌 Featured Projects
-
-> __
+## Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h4>🔹 Project Name 1</h4>
-      <p>Deskripsi singkat: apa yang dibangun, masalah apa yang diselesaikan.</p>
-      <p>
-        <code>React</code> <code>Node.js</code> <code>MySQL</code>
-      </p>
-      <a href="#">🔗 Live Demo</a> · <a href="#">📂 Source Code</a>
-    </td>
-    <td width="50%">
-      <h4>🔹 Project Name 2</h4>
-      <p>Deskripsi singkat: apa yang dibangun, masalah apa yang diselesaikan.</p>
-      <p>
-        <code>JavaScript</code> <code>Express</code>
-      </p>
-      <a href="#">🔗 Live Demo</a> · <a href="#">📂 Source Code</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔹 Project Name 1**
+<br/>
+Deskripsi singkat: masalah apa yang diselesaikan, apa hasilnya.
+
+`React` `Node.js` `MySQL`
+
+[Live Demo →](#) &nbsp;|&nbsp; [Source →](#)
+
+</td>
+<td width="50%" valign="top">
+
+**🔹 Project Name 2**
+<br/>
+Deskripsi singkat: masalah apa yang diselesaikan, apa hasilnya.
+
+`JavaScript` `Express`
+
+[Live Demo →](#) &nbsp;|&nbsp; [Source →](#)
+
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-### 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=banghann&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banghann&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
+<img src="./profile/stats.svg" width="48%" />
+<img src="./profile/top-langs.svg" width="42%" />
 
-<img src="https://streak-stats.demolab.com?user=banghann&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
+<img src="https://streak-stats.demolab.com?user=banghann&theme=dark&hide_border=true&background=0d1117&ring=64748b&fire=64748b&currStreakLabel=64748b" width="90%" />
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### ☕ Support Me
+<a href="https://www.buymeacoffee.com/BangHan"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 
-<a href="https://www.buymeacoffee.com/BangHan">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee" />
-</a>
-
-<br><br>
-
-**Thanks for stopping by! Feel free to connect 🚀**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>

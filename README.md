@@ -125,7 +125,8 @@ Crafting 3D Roblox gameplay loops, custom state machines, economy progression, i
 - **Direct Booking Bypass**: Selecting an appointment directly pre-populates branch and doctor, skipping step 1.
 - **Modern Asset Pipeline**: Sub-400ms production builds with Vite and Tailwind CSS v4, replacing bloated external CDNs.
 
-[📦 Explore Repository: BangHann/rs-ananda-website →](https://github.com/BangHann/rs-ananda-website)
+![Private Enterprise](https://img.shields.io/badge/Private%20Enterprise-0D1117?style=flat-square&logo=github&logoColor=00FFFF)
+![RS Ananda Bekasi Internal Production](https://img.shields.io/badge/RS%20Ananda%20Bekasi%20Internal%20Production-24B2CA?style=flat-square)
 
 ---
 
@@ -141,7 +142,8 @@ Crafting 3D Roblox gameplay loops, custom state machines, economy progression, i
 - **Multi-Tier AI Cascade**: Intelligent caloric/macro coach with zero-cost fallback cascade and tactile macro adjustment modals.
 - **Native Haptics**: Interactive vibration feedback during training sets via `expo-haptics`.
 
-[📦 Explore Repository: BangHann/gym-tracker-app →](https://github.com/BangHann/gym-tracker-app)
+![Proprietary Project](https://img.shields.io/badge/Proprietary%20Project-0D1117?style=flat-square&logo=github&logoColor=8A2BE2)
+![Active Development](https://img.shields.io/badge/Active%20Development-8A2BE2?style=flat-square&logo=git&logoColor=FFFFFF)
 
 ---
 
@@ -157,7 +159,8 @@ Crafting 3D Roblox gameplay loops, custom state machines, economy progression, i
 - **React 19 Zero-Latency UI**: Lightning-fast state transitions and optimistic UI updates powered by Zustand.
 - **Audited Financial Schema**: Express.js REST API with normalized MySQL schema for transactions and category allocations.
 
-[📦 Explore Repository: BangHann/personal-finance-app →](https://github.com/BangHann/personal-finance-app)
+![Private Application](https://img.shields.io/badge/Private%20Application-0D1117?style=flat-square&logo=github&logoColor=00FFFF)
+![FinTech Dashboard](https://img.shields.io/badge/FinTech%20Dashboard-00FFFF?style=flat-square)
 
 ---
 
@@ -172,6 +175,9 @@ Crafting 3D Roblox gameplay loops, custom state machines, economy progression, i
 - **Algorithmic Drop Tables**: Weighted rarity matrices featuring mutations (common, rare, epic, mythical).
 - **Clean Architecture**: Modular client-server event replication and clean state separation in Lua.
 - **Atmospheric 3D Design**: Custom water physics, environmental lighting, and spatial audio.
+
+![Proprietary Game](https://img.shields.io/badge/Proprietary%20Game-0D1117?style=flat-square&logo=roblox&logoColor=FFFFFF)
+![Roblox Engine](https://img.shields.io/badge/Roblox%20Engine-E2231A?style=flat-square&logo=roblox&logoColor=FFFFFF)
 
 ---
 

@@ -72,21 +72,17 @@ Clean architecture, zero-latency execution, and systems that hold under high con
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BangHann&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=BangHann&theme=city_lights&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=BangHann&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
+</div>
 
-<h2 align="center">⌘ Contribution Graph</h2>
+<h2 align="center">⌘ Commit Activity</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/BangHann/BangHann/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/BangHann/BangHann/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BangHann/BangHann/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BangHann/BangHann/output/pacman-contribution-graph.svg">
   <p align="center">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/BangHann/BangHann/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/BangHann/BangHann/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph">
   </p>
 </picture>
 

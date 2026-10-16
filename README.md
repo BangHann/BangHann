@@ -33,23 +33,17 @@ Clean architecture, zero-latency execution, and systems that hold under high con
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/BangHann" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
-  </a>
+  <a href="https://github.com/BangHann"><img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/farhan-hibatullah" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
-  </a>
+  <a href="https://linkedin.com/in/farhan-hibatullah"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:hibatullahfarhan4@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail" />
-  </a>
+  <a href="mailto:hibatullahfarhan4@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" /></a>
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,php,nodejs,express,mysql,sqlite,docker,linux,git,figma,ts,py,lua,vite,redux,postman,nginx,bash&perline=11" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,php,nodejs,express,mysql,sqlite,docker,ts,py,lua,linux,git,figma,vite,redux,postman,nginx&perline=10" alt="Tech Stack" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
